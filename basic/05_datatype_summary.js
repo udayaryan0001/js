@@ -29,3 +29,4 @@ const myfunction = function()
 }
 
 //non preamptive ka datatype mainly object he aata hain
+ 
