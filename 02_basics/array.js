@@ -9,7 +9,7 @@ console.log(myarr2)
 
 ///Array methods
 myArr.push(6);
-console.log(myArr);
+console.log(myArr); 
 
 myArr.pop();
   //removes the last value directly
