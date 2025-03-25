@@ -10,6 +10,6 @@
             document.write("Internship in Infosys");
         }
         else if(CGPA <7){
-            document.write("Inhouse Internship");
+            document.write("Inhouse Internshipp");
         }
  
